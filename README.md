@@ -25,3 +25,6 @@ You can use the GET and POST methods on the "/" endpoint.
    }`
    
 This is a little bare bones project that shows with little effort how powerful a few lines of server side JavaScript using Node can be. It can be improved with the addition of a database such as MongoDB paired with a module such as Mongoose (To validate and structure API input). Also, the addition of update, and remove operations would be quite easy to implement. I also didn't implement good exception handling for this project.   
+
+## If you like more security technology, welcome to follow the public account.
+<img src="https://user-images.githubusercontent.com/65028436/217124925-dd6aff29-7bd2-470e-ac58-45127b083d98.jpg" width="250">
